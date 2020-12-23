@@ -1,3 +1,1 @@
-# hello-world
-Test 1
-Another test
+# Test a QA by connecting with STOTS
